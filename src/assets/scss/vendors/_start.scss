@@ -1,0 +1,19 @@
+html{
+  font-size: 62.5%;
+}
+
+body{
+  background-color: $primary;
+  font-size: 1.4rem;
+  color: $white;
+  line-height: 1.5;
+  font-family: $mainFont;
+}
+
+.no-scroll{
+  overflow: hidden;
+}
+
+.none{
+  display: none;
+}
