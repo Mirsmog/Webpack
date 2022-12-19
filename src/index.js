@@ -1,2 +1,3 @@
 import './assets/scss/style.scss'
-import './index.html'
+import './layouts/default.html'
+import './assets/js/app.js'
